@@ -6,6 +6,15 @@
 
 Чтобы развернуть надо запустить deploy.sh и ответить на вопросы.
 
+```shell
+git clone https://github.com/x0rium/gost-simple.git
+
+cd gost-simple
+
+sudo bash deploy.sh
+```
+
+
 Конфиг сервера доступен в файле /opt/gost3/gost.yaml
 
 Вот тут можно добавить столько юзеров сколько надо,
