@@ -39,13 +39,13 @@ auths:
 
 Протестировано на iOS с приложением shdowrocket
 
-addrees - ip адрес сервера
-Port - который указан при установке
-Password - пароль
-Plugin - gost
-Plugin -> gost -> Type - ws 
-TCP Fast Open включен
-UDP Relay включен
+- addrees - ip адрес сервера
+- Port - который указан при установке
+- Password - пароль
+- Plugin - gost
+- Plugin -> gost -> Type - ws 
+- TCP Fast Open включен
+- UDP Relay включен
 
 ## Reference 
 
